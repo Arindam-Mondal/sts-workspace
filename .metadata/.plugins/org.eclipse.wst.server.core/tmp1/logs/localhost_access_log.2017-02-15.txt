@@ -1,0 +1,11 @@
+127.0.0.1 - - [15/Feb/2017:11:10:59 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:05 +0530] "GET /FitnessTracker/ HTTP/1.1" 200 2215
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:06 +0530] "GET /FitnessTracker/assets/ico/favicon.ico HTTP/1.1" 404 1068
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:43 +0530] "GET /FitnessTracker/addGoal.html HTTP/1.1" 200 2404
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:43 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:46 +0530] "POST /FitnessTracker/addGoal.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:46 +0530] "GET /FitnessTracker/index.jsp HTTP/1.1" 200 2215
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:50 +0530] "GET /FitnessTracker/addMinutes.html HTTP/1.1" 200 3319
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:51 +0530] "GET /FitnessTracker/activities.json?ajax=true HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:57 +0530] "POST /FitnessTracker/addMinutes.html HTTP/1.1" 200 3319
+0:0:0:0:0:0:0:1 - - [15/Feb/2017:11:11:57 +0530] "GET /FitnessTracker/activities.json?ajax=true HTTP/1.1" 200 59
